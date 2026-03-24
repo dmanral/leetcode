@@ -166,3 +166,5 @@ if __name__ == "__main__":
     print(result7)
     result8 = solution.myAtoi("-")
     print(result8)
+    result9 = solution.myAtoi("Hello. World.")
+    print(result9)
